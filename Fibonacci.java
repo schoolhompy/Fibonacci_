@@ -5,7 +5,7 @@
  *    2018.06.11, 0.1, KIM TAE HO
  * </pre>
  *
- * @author 　KIM TAE HO
+ * @author  KIM TAE HO
  * @version 0.1, 2018.06.11 
  * @see    None
  */
